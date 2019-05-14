@@ -1,6 +1,6 @@
 # WordGame
 
-This program is a word game. The user is given two letters to start, which they
+This program is a simple word game. The user is given two letters to start, which they
 will have to take and come up with a word that starts with the first letter and
 ends with the second letter. This word will be validated to see if it is in the
 list of cleansed words and scored accordingly. If you enter a valid word, you will 
